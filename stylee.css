@@ -75,6 +75,8 @@ h2.cool-main{
 }
 .cool-dark-2{
     display: flex;
+    justify-content: space-between;
+    padding: 0px 70px;
 }
 .cool-dark{
     padding-top: 116px;
@@ -251,6 +253,7 @@ h2.cool-main{
 }
 .sub-input-section{
     display: flex;
+    align-items: center;
     justify-content: space-between;
     padding:71px 0px ;
 
